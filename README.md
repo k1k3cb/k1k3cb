@@ -6,7 +6,7 @@
 - 👨‍💻 Puedes ver mis proyectos en el siguiente  [enlace](https://portfolio-ep5h.onrender.com/) 
 
 
-- 📫 Si quieres escribirme... [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enriquecbar@gmail.com)
+- 📫 Si quieres escribirme... [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enriquecbardev@gmail.com)
 
 <br> 
  
