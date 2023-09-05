@@ -1,7 +1,7 @@
 <h1 align="center">Aloha 👋, Soy Enrique</h1>
 <h3 align="center">Frontend developer de.... Vigo (Viva Vigo....!)</h3>
 
-- 🌱 Actualmente estoy aprendiendo **JS & React**
+- 🌱 Actualmente estoy aprendiendo **React & Node**
 
 - 👨‍💻 Puedes ver mis proyectos en el siguiente  [enlace](https://portfolio-ep5h.onrender.com/) 
 
