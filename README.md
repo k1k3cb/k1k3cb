@@ -18,11 +18,13 @@
 
 Hey there! 👋 I'm Enrique Comesaña, a passionate full-stack developer based in Vigo, Spain. My expertise lies in crafting robust and scalable web applications, with a particular focus on the JavaScript ecosystem. I thrive on solving complex problems and building innovative solutions that make a positive impact. Whether it's on the front end or back end, I'm dedicated to delivering high-quality code and delightful user experiences. Let's create something amazing together!
 
-- 🌱 Actualmente estoy aprendiendo **JS & React**
+- 🌱 I'm currently improving **React & Node**,ehh and HTML, CSS... Everything--> welcome to the world of development
 
-- ☁️ I've keen interest in cloud computing. 
+- 🌱 Learning **AstroJS, React NAtive**
 
-- 🎓 I love learning new techs and using new tools. 
+- ☁️ I've keen interest in cloud computing.
+
+- 🎓 I love learning new techs and using new tools.
 
 - 💻 Visit my [Portfolio](https://portfolio-ep5h.onrender.com/) for more details about me.
 
@@ -41,15 +43,15 @@ Ask me anything here or send me an email.
   </ul>
 </div>
 
-<!--tech stack icons-->
----
+## <!--tech stack icons-->
+
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,ts,git,vite,react,astro,nodejs,express,md,mongodb,postman,wordpress,figma,photoshop,illustrator,indesign&perline=14" />
   </a>
 </p>
-
+<br>
 ---
 
 <br>
@@ -71,14 +73,10 @@ Ask me anything here or send me an email.
 <br>
 <br>
 
-
-
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 <br>
 <div align='left'>
-
-
 
 <a href="https://www.linkedin.com/in/enrique-comesana/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ENRIQUE COMESANA-blue?style=for-the-badge&logo=linkedin"></a>
 
@@ -90,9 +88,7 @@ Ask me anything here or send me an email.
   <img  width="30%"  src="https://github.com/k1k3cb/portfolio/blob/main/src/assets/images/happy-cooding.png?raw=true">
 </div>
 
-
-
-<!--Footer--> 
+<!--Footer-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
