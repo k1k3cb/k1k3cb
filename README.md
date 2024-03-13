@@ -22,11 +22,11 @@
 
 - 🌱 Aprendiendo **AstroJS, React Native**
 
-- ☁️ Tengo un gran interés cloud computing.
+- ☁️ Tengo un gran interés en cloud computing.
 
-- 🎓 Me encanta aprender nuevas tecnologías y usar nuevas herramientas..
+- 🎓 Me encanta aprender nuevas tecnologías y usar nuevas herramientas.
 
-- 💻 Visita mo [Portfolio](https://portfolio-ep5h.onrender.com/) para más detalles sobre mí.
+- 💻 Visita mi [Portfolio](https://portfolio-ep5h.onrender.com/) para más detalles sobre mí.
 
 - 📫 Cómo contactar conmigo: **enriquecbardev@gmail.com**
 
