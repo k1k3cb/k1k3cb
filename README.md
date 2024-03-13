@@ -1,29 +1,22 @@
-
-  
-  
-  <h1 align="center" style="text-decoration: none"><b>**Aloha,  I'm Enrique Comesaña** 
+  <h1 align="center"> Aloha,  I'm Enrique Comesaña
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<h3 align="center">Full stack developer from Vigo (Spain)</h3>
+<h3 align="center"> <b>Full stack developer from Vigo (Spain)<b> </h3>
 
 <!--Banner-->
+
 ![Banner Image](https://github.com/k1k3cb/portfolio/blob/main/src/assets/images/banner.jpg?raw=true)
 
-
-
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
 <!--Goat image-->
 <br>
 <div>
   <img align="right" width="30%"  src="https://github.com/k1k3cb/portfolio/blob/main/src/assets/images/goat.jpeg?raw=true">
 </div>
 
-
-
-
-
-
+Hey there! 👋 I'm Enrique Comesaña, a passionate full-stack developer based in Vigo, Spain. My expertise lies in crafting robust and scalable web applications, with a particular focus on the JavaScript ecosystem. I thrive on solving complex problems and building innovative solutions that make a positive impact. Whether it's on the front end or back end, I'm dedicated to delivering high-quality code and delightful user experiences. Let's create something amazing together!
 
 - 🌱 Actualmente estoy aprendiendo **JS & React**
 
@@ -84,22 +77,17 @@ Ask me anything here or send me an email.
 <br>
 <div align='left'>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/enrique-comesana/
-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enrique-comesa%c3%b1a-312500268/" height="30" width="40" /></a>
 
-</p>
-<a href="https://linkedin.com/in/abdoachhoubi" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
 
-<a href="https://achhoubiplus.hashnode.dev" target="_blank">
-<img src=https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white alt=hshnode style="margin-bottom: 5px;" />
-</a>
+<a href="[ENRIQUE COMESANA](https://www.linkedin.com/in/enrique-comesana/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ENRIQUE COMESANA-blue?style=for-the-badge&logo=linkedin"></a>
+
+<a href="mailto:enriquecbardev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-enriquecbardev@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
 
 </div>
 
-**Happy Coding!** 😊
+<div align="center">
+  <img  width="50%"  src="https://github.com/k1k3cb/portfolio/blob/main/src/assets/images/happy-cooding.png?raw=true">
+</div>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
