@@ -1,4 +1,4 @@
-  <h1 align="center"> Aloha,  I'm Enrique Comesaña
+  <h1 align="center"> Aloha,  soy Enrique Comesaña
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
@@ -8,7 +8,7 @@
 
 ![Banner Image](https://github.com/k1k3cb/portfolio/blob/main/src/assets/images/banner.jpg?raw=true)
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mí**
 
 <!--Goat image-->
 <br>
@@ -16,22 +16,21 @@
   <img align="right" width="30%"  src="https://github.com/k1k3cb/portfolio/blob/main/src/assets/images/goat.jpeg?raw=true">
 </div>
 
-Hey there! 👋 I'm Enrique Comesaña, a passionate full-stack developer based in Vigo, Spain. My expertise lies in crafting robust and scalable web applications, with a particular focus on the JavaScript ecosystem. I thrive on solving complex problems and building innovative solutions that make a positive impact. Whether it's on the front end or back end, I'm dedicated to delivering high-quality code and delightful user experiences. Let's create something amazing together!
+¡Hola! 👋 Soy Enrique Comesaña, un apasionado desarrollador full-stack de Vigo, España. Mi experiencia radica en la creación de aplicaciones web basdas principalmente en el ecosistema JavaScript. Me encanta resolver problemas complejos y crear soluciones innovadoras que tengan un impacto positivo. Ya sea en el front-end o en el back-end, me dedico a ofrecer código de alta calidad y experiencias de usuario agradables. ¡Vamos a crear algo increíble juntos!
 
-- 🌱 I'm currently improving **React & Node**,ehh and HTML, CSS... Everything--> welcome to the world of development
+- 🌱 Actualmente estoy mejorando **React & Node**, ehhhh.... y HTML, CSS...😅 Todo  👉  Bienvenido/a al mundo de  la programación 😉.
 
-- 🌱 Learning **AstroJS, React NAtive**
+- 🌱 Aprendiendo **AstroJS, React Native**
 
-- ☁️ I've keen interest in cloud computing.
+- ☁️ Tengo un gran interés cloud computing.
 
-- 🎓 I love learning new techs and using new tools.
+- 🎓 Me encanta aprender nuevas tecnologías y usar nuevas herramientas..
 
-- 💻 Visit my [Portfolio](https://portfolio-ep5h.onrender.com/) for more details about me.
+- 💻 Visita mo [Portfolio](https://portfolio-ep5h.onrender.com/) para más detalles sobre mí.
 
-- 📫 How to reach me: **enriquecbardev@gmail.com**
+- 📫 Cómo contactar conmigo: **enriquecbardev@gmail.com**
 
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
-Ask me anything here or send me an email.
+Por favor, siéntase libre de clonar/fork proyectos, plantear problemas y enviar solicitudes de incorporación de cambios si cree que algo podría ser mejor. Pregúntame cualquier cosa aquí o envíame un correo electrónico.
 
 <br>
 
@@ -39,11 +38,13 @@ Ask me anything here or send me an email.
 <div id="user-content-toc">
 
   <ul align="center">
-    <summary><h2 style="display: inline-block"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20">  Most used Technologies & Tools 👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20">  Tecnologías y herramientas más utilizadas 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 
-## <!--tech stack icons-->
+ <!--tech stack icons-->
+
+---
 
 <br>
 <p align="center">
@@ -52,6 +53,7 @@ Ask me anything here or send me an email.
   </a>
 </p>
 <br>
+
 ---
 
 <br>
