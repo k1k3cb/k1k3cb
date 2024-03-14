@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<h3 align="center"> <b>Full-stack developer from Vigo (Spain)<b> </h3>
+<h3 align="center"> <b>Desarrollador Full-stack de Vigo (España)<b> </h3>
 
 <!--Banner-->
 
@@ -18,7 +18,7 @@
 
 ¡Hola! 👋 Soy Enrique Comesaña, un apasionado desarrollador full-stack de Vigo, España. Mi experiencia radica en la creación de aplicaciones web basdas principalmente en el ecosistema JavaScript. Me encanta resolver problemas complejos y crear soluciones innovadoras que tengan un impacto positivo. Ya sea en el front-end o en el back-end, me dedico a ofrecer código de alta calidad y experiencias de usuario agradables. ¡Vamos a crear algo increíble juntos!
 
-- 🌱 Actualmente estoy mejorando **React & Node**, ehhhh.... y HTML, CSS...😅 Todo  👉  Bienvenido/a al mundo de  la programación 😉.
+- 🌱 Actualmente estoy mejorando **React & Node**, ehhhh.... y HTML, CSS...😅 Todo 😶‍🌫️!!!  👉  Bienvenido/a al mundo de  la programación 😉.
 
 - 🌱 Aprendiendo **AstroJS, React Native**
 
@@ -30,7 +30,7 @@
 
 - 📫 Cómo contactar conmigo: **enriquecbardev@gmail.com**
 
-Por favor, siéntase libre de clonar/fork proyectos, plantear problemas y enviar solicitudes de incorporación de cambios si cree que algo podría ser mejor. Pregúntame cualquier cosa aquí o envíame un correo electrónico.
+Por favor, siéntete libre de clonar/fork proyectos, plantear problemas y enviar solicitudes de incorporación de cambios si crees que algo podría estar mejor. Pregúntame cualquier cosa aquí o envíame un correo electrónico.
 
 <br>
 
