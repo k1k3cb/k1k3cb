@@ -26,9 +26,9 @@
 
 - 🎓 Me encanta aprender nuevas tecnologías y usar nuevas herramientas.
 
-- 💻 Visita mi [Portfolio](https://portfolio-ep5h.onrender.com/) para más detalles sobre mí.
+- 💻 Visita mi [Portfolio](https://enriquecomesana.dev/) para más detalles sobre mí.
 
-- 📫 Cómo contactar conmigo: **enriquecbardev@gmail.com**
+- 📫 Cómo contactar conmigo: **contacto@enriquecomesana.dev**
 
 Por favor, siéntete libre de clonar/fork proyectos, plantear problemas y enviar solicitudes de incorporación de cambios si crees que algo podría estar mejor. Pregúntame cualquier cosa aquí o envíame un correo electrónico.
 
@@ -82,7 +82,7 @@ Por favor, siéntete libre de clonar/fork proyectos, plantear problemas y enviar
 
 <a href="https://www.linkedin.com/in/enrique-comesana/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ENRIQUE COMESANA-blue?style=for-the-badge&logo=linkedin"></a>
 
-<a href="mailto:enriquecbardev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-enriquecbardev@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
+<a href="mailto:enriquecbardev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-contacto@enriquecomesana.dev-teal?style=for-the-badge&logo=gmail"></a>
 
 </div>
 
