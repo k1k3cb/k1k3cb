@@ -20,7 +20,7 @@
 
 - 🌱 Actualmente estoy mejorando **React & Node**, ehhhh.... y HTML, CSS...😅 Todo 😶‍🌫️!!!  👉  Bienvenido/a al mundo de  la programación 😉.
 
-- 🌱 Aprendiendo **AstroJS, React Native**
+- 🌱 Aprendiendo **React Native**
 
 - ☁️ Tengo un gran interés en cloud computing.
 
@@ -49,7 +49,7 @@ Por favor, siéntete libre de clonar/fork proyectos, plantear problemas y enviar
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,ts,git,vite,react,astro,nodejs,express,md,mongodb,postman,wordpress,figma,photoshop,illustrator,indesign&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,ts,git,vite,react,nextjs,astro,nodejs,express,nestjs,postgres,mongodb,postman,wordpress,figma,photoshop,illustrator,indesign&perline=14" />
   </a>
 </p>
 <br>
