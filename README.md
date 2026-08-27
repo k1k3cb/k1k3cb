@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Enrique Comesaña <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola, soy Enrique Comesaña 👋</h1>
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
@@ -10,11 +10,13 @@
 
 ---
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **Sobre mí**
+## 🚀 **Sobre mí**
 
 <br>
 
-> 🚀 **Desarrollador Full Stack** de Vigo, España, con 5+ años creando aplicaciones web modernas con JavaScript/TypeScript.
+<img align="right" width="30%" src="https://raw.githubusercontent.com/k1k3cb/k1k3cb/main/assets/goat.jpeg" alt="Enrique Comesaña" />
+
+> Desarrollador Full Stack de Vigo, España, con 5+ años creando aplicaciones web modernas con JavaScript/TypeScript.
 > Actualmente especializado en **integrar IA (LLMs, RAG, AI Agents) en productos reales** — desde el backend hasta la UX.
 > Me obsesionan la calidad del código, las arquitecturas escalables y construir productos que la gente realmente use.
 
@@ -26,11 +28,11 @@
 - 📫 **Contacto:** [contacto@enriquecomesana.dev](mailto:contacto@enriquecomesana.dev)
 - 🌐 **Portfolio:** [enriquecomesana.dev](https://enriquecomesana.dev)
 
-<br>
+<br clear="both">
 
 ---
 
-## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20"></picture> **Tech Stack**
+## 🛠️ **Tech Stack**
 
 ### Frontend
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -39,19 +41,18 @@
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
-[![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
+
 
 ### Backend
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io/)
+
 
 ### AI / Data
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
 [![RAG](https://img.shields.io/badge/RAG-3B82F6?style=for-the-badge&logo=bookstack&logoColor=white)](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)
@@ -92,16 +93,14 @@
 ## 📊 **GitHub Stats**
 
 <p align="center">
-  <a href="https://github.com/k1k3cb">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k1k3cb&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="k1k3cb top languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1k3cb&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
 </p>
 
 <br>
 
 ---
 
-## 🤝 **Let's Connect..!**<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
+## 🤝 **Let's Connect..!** 👋
 
 <br>
 
@@ -111,7 +110,7 @@
 </div>
 
 <div align="center">
-  <img width="30%" src="https://github.com/k1k3cb/portfolio/blob/main/src/assets/images/happy-coading.png?raw=true" alt="Happy coding" />
+  <img width="30%" src="https://raw.githubusercontent.com/k1k3cb/k1k3cb/main/assets/happy_coding.png" alt="Happy coding" />
 </div>
 
 <!--Footer-->
