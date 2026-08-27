@@ -81,7 +81,7 @@
 
 ---
 
-## 🧠 **Currently Exploring**
+## 🧠 **Explorando actualmente**
 
 - 🧠 **Large Language Models (LLMs)** & prompt engineering
 - 📚 **Retrieval-Augmented Generation (RAG)** con citas a fuente (página/segundo)
@@ -94,7 +94,7 @@
 
 ---
 
-## 📊 **Languages Used**
+## 📊 **Lenguajes usados**
 
 <p align="center">
   <picture>

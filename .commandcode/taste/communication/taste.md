@@ -7,3 +7,4 @@
 - Appreciates when the assistant **preserves the parts they explicitly liked** from their previous work, rather than redesigning everything. Confidence: 0.85
 - Issues **incremental, itemized change requests** in short messages (one tweak per line, e.g., "añadir X", "eliminar Y", "poner Z", "soluciona lo de X xq no se ve") rather than rewriting whole specs. Confidence: 0.9
 - Asks for the assistant's **opinion before deciding** on borderline elements (e.g., "Featured Projects interesante o lo elimino?"), valuing a recommendation but making the final call. Confidence: 0.85
+- Prefers **README/profile content in Spanish** (translates English section headers like "Currently Exploring" → "Explorando actualmente", "Languages Used" → "Lenguajes usados"). Asked explicitly even when other headings were already in Spanish. Confidence: 0.85
