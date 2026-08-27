@@ -14,7 +14,7 @@
 
 <br>
 
-<img align="right" width="30%" src="https://raw.githubusercontent.com/k1k3cb/k1k3cb/main/assets/goat.jpeg" alt="Enrique Comesaña" />
+<img align="right" width="30%" src="https://raw.githubusercontent.com/k1k3cb/k1k3cb/main/assets/goat.jpg" alt="Enrique Comesaña" />
 
 > Desarrollador Full Stack de Vigo, España, con 5+ años creando aplicaciones web modernas con JavaScript/TypeScript.
 > Actualmente especializado en **integrar IA (LLMs, RAG, AI Agents) en productos reales** — desde el backend hasta la UX.
@@ -93,7 +93,7 @@
 ## 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1k3cb&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=k1k3cb&show_icons=true&locale=es&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff&bg_color=0d1117&cache_seconds=86400&v=4" alt="Top Languages" />
 </p>
 
 <br>
