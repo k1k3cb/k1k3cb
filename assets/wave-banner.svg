@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#130F40"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0.1"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#7A7ADB" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#7A7ADB" stop-opacity="0.05"/>
+    </linearGradient>
+    <linearGradient id="wave3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2234AE" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#2234AE" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="200" fill="url(#bg)"/>
+
+  <g opacity="0.9">
+    <path fill="url(#wave3)" d="M0,200 L0,140 Q200,80 400,140 T800,140 L800,200 Z">
+      <animate attributeName="d"
+        dur="6s" repeatCount="indefinite"
+        values="M0,200 L0,140 Q200,80 400,140 T800,140 L800,200 Z;
+                M0,200 L0,150 Q200,110 400,150 T800,150 L800,200 Z;
+                M0,200 L0,140 Q200,80 400,140 T800,140 L800,200 Z"/>
+    </path>
+  </g>
+
+  <g opacity="0.85">
+    <path fill="url(#wave2)" d="M0,200 L0,160 Q200,110 400,160 T800,160 L800,200 Z">
+      <animate attributeName="d"
+        dur="8s" repeatCount="indefinite"
+        values="M0,200 L0,160 Q200,110 400,160 T800,160 L800,200 Z;
+                M0,200 L0,170 Q200,140 400,170 T800,170 L800,200 Z;
+                M0,200 L0,160 Q200,110 400,160 T800,160 L800,200 Z"/>
+    </path>
+  </g>
+
+  <g opacity="0.95">
+    <path fill="url(#wave1)" d="M0,200 L0,180 Q200,140 400,180 T800,180 L800,200 Z">
+      <animate attributeName="d"
+        dur="10s" repeatCount="indefinite"
+        values="M0,200 L0,180 Q200,140 400,180 T800,180 L800,200 Z;
+                M0,200 L0,190 Q200,160 400,190 T800,190 L800,200 Z;
+                M0,200 L0,180 Q200,140 400,180 T800,180 L800,200 Z"/>
+    </path>
+  </g>
+
+  <g fill="#3B82F6" font-family="Montserrat, Segoe UI, sans-serif" font-weight="700" text-anchor="middle">
+    <text x="400" y="70" font-size="28" letter-spacing="2">FULL STACK · AI-POWERED APPS</text>
+    <text x="400" y="105" font-size="18" font-weight="400" fill="#9CA3AF" letter-spacing="3">VIGO · ESPAÑA</text>
+  </g>
+</svg>

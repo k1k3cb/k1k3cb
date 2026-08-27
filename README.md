@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/k1k3cb/k1k3cb/main/assets/wave-banner.svg" alt="Banner" width="800" />
+</p>
+
 <h1 align="center">Aloha, soy Enrique Comesaña 👋</h1>
 
 <h3 align="center">
