@@ -41,8 +41,7 @@
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
-[![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
+
 
 ### Backend
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
@@ -94,7 +93,7 @@
 ## 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=k1k3cb&show_icons=true&locale=es&layout=compact&theme=tokyonight&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff&bg_color=0d1117&v=4" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=k1k3cb&theme=tokyonight&hide_border=true&background=0d1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=ffffff&dates=9CA3AF" alt="GitHub Streak" />
 </p>
 
 <br>
