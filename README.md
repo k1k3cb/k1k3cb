@@ -49,7 +49,7 @@
 [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io/)
+
 
 ### AI / Data
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -90,10 +90,14 @@
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 **Languages Used**
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=k1k3cb&theme=tokyonight&hide_border=true&background=0d1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=ffffff&dates=9CA3AF" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/k1k3cb/github-stats/blob/generated/languages.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/k1k3cb/github-stats/blob/generated/languages.svg" />
+    <img src="https://github.com/k1k3cb/github-stats/blob/generated/languages.svg" alt="Languages Used" />
+  </picture>
 </p>
 
 <br>
