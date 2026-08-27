@@ -1,0 +1,15 @@
+# Profile & Personal Branding Preferences
+
+- Wants to position themselves as a **Full Stack developer specialized in AI** (LLMs, RAG, AI Agents). Confidence: 0.95
+- Prefers combining/besting elements from multiple reference profiles rather than copying one (cited Ileriayo, Annarhysa, and own previous README as sources of inspiration). Confidence: 0.85
+- Likes **animated headers** (typing SVG, wave gifs) in profile READMEs. Confidence: 0.9
+- Likes the **"Let's Connect"** section style (badges + happy coding image + waving footer) and wants it preserved. Confidence: 0.9
+- Likes the **"Currently Exploring"** section format (bulleted list of learning topics) in profile READMs. Confidence: 0.85
+- Likes **categorized Tech Stack** sections (Frontend / Backend / AI / Databases / DevOps) with `for-the-badge` shields, over flat skillicons blocks. Confidence: 0.85
+- Cares about **tech stack being real and verifiable** (derives it from actual `package.json` files, not made up). Confidence: 0.8
+- **Removes vanity counters** (e.g., profile views widget) — prefers clean, content-focused READMEs over stats that don't add value. Confidence: 0.85
+- Prefers adding **mobile/cross-platform technologies** (e.g., React Native) when positioning toward modern full-stack/AI roles. Confidence: 0.8
+- Explicitly considers removing visual sections (like "Featured Projects") when they don't add value, valuing **cleaner READMEs** when the section is borderline. Confidence: 0.85
+- Wants **specific named tools** in stack highlights (e.g., adds Vite, FastAPI, GitHub individually rather than just abstract categories). Confidence: 0.85
+- When uncertain about displayed tech, prefers **honest, verifiable skills** over filling with trendy-sounding tech (rejected swapping LLM badges for TensorFlow/Pandas without real project usage; also rejected concrete AI provider suggestions like Anthropic/Mistral/Ollama in favor of a provider-agnostic AI / Data section). Confidence: 0.9
+- Values **strict category accuracy** in stack sections: removed Stripe from DevOps (it's a payment processor, not a DevOps tool) and removed managed-Postgres services (Supabase, Neon) from Databases in favor of native engines (PostgreSQL, SQLite). Each badge must fit its category semantically. Confidence: 0.9
